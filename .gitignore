@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Object Files
+*.o
+*.obj
+
+# Local Data Files
+*.txt
+*.dat
+
+# OS & Editor Files
+.vscode/
+.DS_Store
+desktop.ini
